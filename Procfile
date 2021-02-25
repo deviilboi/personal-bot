@@ -1,1 +1,1 @@
-worker: python3 -m Shashank
+worker: python3 -m personal-bot
