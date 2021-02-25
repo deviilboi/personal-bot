@@ -1,6 +1,6 @@
 {
-  "name": "Zect",
-  "description": "Zect, a telegram userbot with MongoDB database",
+  "name": "Personal bot",
+  "description": "THIS IS THE PERSONAL USERBOT OF SHASHANK SHARMA",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org.",
