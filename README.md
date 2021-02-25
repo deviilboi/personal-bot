@@ -4,11 +4,11 @@
 
 Just another telegram userbot, written in Python using the [Pyrogram](https://github.com/pyrogram/pyrogram) library
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/okay-retard/ZectUserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deviilboi/personal-bot)
 
 *How to run this bot*
 
-- `git clone https://github.com/okay-retard/ZectUserBot`
+- `git clone https://github.com/deviilboi/personal-bot`
 - `cd ZectUserBot`
 - `pip3 install -r requirements.txt`
 - `python3 makesession.py` and put the session string in config.py
